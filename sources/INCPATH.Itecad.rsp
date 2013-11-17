@@ -1,0 +1,7 @@
+-Ic:\ecs\SYSTEM\Qt4\include\QtCore
+-Ic:\ecs\SYSTEM\Qt4\include\QtGui
+-Ic:\ecs\SYSTEM\Qt4\include\QtXml
+-Ic:\ecs\SYSTEM\Qt4\include
+-I.
+-I.
+-Ic:\ecs\SYSTEM\Qt4\mkspecs\os2-g++

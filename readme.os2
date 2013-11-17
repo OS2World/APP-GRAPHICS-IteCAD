@@ -1,0 +1,21 @@
+After much time without doing anything, I'm back porting :)
+
+Here's the 1.2.0 eCS-OS/2 version of ITECAD, an opensource EDA program
+under QT4.
+
+Porting it was easy, after fiddling a little with the .pro file.
+
+You can expand the source.zip file if you want to try and port it as well:
+otherwise, you can delete it without problems.
+
+This port wouldn't be possible without the hard work of Paul Smedley and all
+those people who ported QT4 and other new OS/2 developing tools, so I hereby
+thank them all. Please consider making a donation for those who continue
+developing under OS/2.
+
+Last thing: if you find this program useful, please feel free to contact me.
+It's always nice to hear news from the OS/2 community.
+
+Mentore Siesto
+Pisa, Italy
+mentore.siesto@alice.it
